@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164.722" height="46.286" viewBox="0 0 164.722 46.286">
+  <defs>
+    <filter id="Path_11064" x="0" y="0" width="164.722" height="46.286" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#eff5cc"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_11056" x="20.795" y="2.96" width="29.507" height="40.636" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7145" data-name="Group 7145" transform="translate(2.325 -274.776)">
+    <g transform="matrix(1, 0, 0, 1, -2.32, 274.78)" filter="url(#Path_11064)">
+      <path id="Path_11064-2" data-name="Path 11064" d="M51.675,313.332V276.776h154.4l-18.986,36.555" transform="translate(-46.68 -274.78)" fill="#fff" stroke="#eff5cc" stroke-width="1"/>
+    </g>
+    <text id="_VW_IDとは_" data-name="       VW IDとは？" transform="translate(49 298.736)" fill="#5a5757" font-size="13" font-family="SourceHanSansJP-Medium, Source Han Sans JP" font-weight="500" style="isolation: isolate"><tspan x="0" y="0" xml:space="preserve">       VW IDとは？</tspan></text>
+    <path id="Path_11187" data-name="Path 11187" d="M198.262,276.776l-19.048,36.555H130.068V276.776Z" transform="translate(-128.168 0)" fill="#f5d22f"/>
+    <g transform="matrix(1, 0, 0, 1, -2.32, 274.78)" filter="url(#Path_11056)">
+      <path id="Path_11056-2" data-name="Path 11056" d="M1578.615,418.931c.126,0,.306,0,.521,0a10.358,10.358,0,0,0,2.842-.332,5.5,5.5,0,0,0,2.226-1.231,5.368,5.368,0,0,0,1.468-2.368h3.836l-4.83,22.636h-4.736l3.362-15.627-5.3-.047Z" transform="translate(-1548.2 -406.04)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
