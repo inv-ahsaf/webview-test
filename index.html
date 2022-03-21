@@ -161,5 +161,11 @@
 
 
     </div>
+        <script>
+document.querySelector("button").onclick = function() {
+  console.log("Send post message");
+  window.postMessage("Hello React", "*");
+}
+</script>
 </body>
 </html>
