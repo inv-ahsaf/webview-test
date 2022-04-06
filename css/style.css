@@ -356,11 +356,10 @@ margin-top: 5px;
     margin-top: 20px;   
 }
 .point_txt{
-    font-family: 'Source Han Sans JP Bold';
+    font-family: 'Source Han Sans JP';
     font-size: 18px;
     font-weight: bold;
     color:#EFDB37;
-    text-shadow: 1px 1px 1px #EFDB37;
 }
 
 .second_pos{

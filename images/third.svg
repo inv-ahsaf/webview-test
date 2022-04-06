@@ -7,7 +7,7 @@
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="_3" x="24.054" y="0.873" width="37.976" height="44.81" filterUnits="userSpaceOnUse">
+    <filter id="_3" x="24.054" y="0.872" width="37.976" height="44.81" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-2"/>
       <feFlood flood-opacity="0.161"/>
@@ -15,16 +15,16 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Group_7164" data-name="Group 7164" transform="translate(5.596 -1774.652)">
-    <g id="Group_7162" data-name="Group 7162" transform="translate(-27.883 1776.652)">
+  <g id="Group_7349" data-name="Group 7349" transform="translate(4.596 -1785.652)">
+    <g id="Group_7162" data-name="Group 7162" transform="translate(-26.883 1787.652)">
       <g transform="matrix(1, 0, 0, 1, 22.29, -2)" filter="url(#Path_11190)">
         <path id="Path_11190-2" data-name="Path 11190" d="M-16.507,313.332V276.776h173.7l-14.816,36.555H-16.507" transform="translate(47.14 -274.78)" fill="#fff" stroke="#eff5cc" stroke-width="1"/>
       </g>
       <path id="Path_11191" data-name="Path 11191" d="M198.262,276.776l-19.048,36.555H138.707V276.776h59.555Z" transform="translate(-100.668 -276.776)" fill="#f5d22f"/>
     </g>
-    <g transform="matrix(1, 0, 0, 1, -5.6, 1774.65)" filter="url(#_3)">
+    <g transform="matrix(1, 0, 0, 1, -4.6, 1785.65)" filter="url(#_3)">
       <path id="_3-2" data-name="3" d="M1548.384,425.995a5.172,5.172,0,0,0-.922-2.027,5.434,5.434,0,0,0-1.966-1.6,7.367,7.367,0,0,0-2.7-.737,11.3,11.3,0,0,0-3.625.123,10.5,10.5,0,0,0-4.055,1.782,10.3,10.3,0,0,0-3.748,6.328h4.669a5,5,0,0,1,.614-1.9,4.4,4.4,0,0,1,2.089-1.966,4.279,4.279,0,0,1,2.027-.307,2.545,2.545,0,0,1,1.229.307,2.339,2.339,0,0,1,.86.922,3.5,3.5,0,0,1,.123,2.7,4,4,0,0,1-1.413,2.027,4.662,4.662,0,0,1-1.843.737,8.99,8.99,0,0,1-2.58.246l-.8,3.625h.369c.464,0,1.14.008,1.659.061a4,4,0,0,1,1.843.491,2.682,2.682,0,0,1,1.044,1.106,2.947,2.947,0,0,1,.184,1.72,4.907,4.907,0,0,1-3.379,4.3,4.1,4.1,0,0,1-1.536.307,3.017,3.017,0,0,1-1.843-.492,3.057,3.057,0,0,1-1.106-2.089,3.89,3.89,0,0,1,.184-1.9l-5.037-.061a9.132,9.132,0,0,0-.184,2.7,6.386,6.386,0,0,0,1.29,3.87,6.185,6.185,0,0,0,3.809,1.966,13.582,13.582,0,0,0,3.072.061,14.287,14.287,0,0,0,1.659-.184,9.885,9.885,0,0,0,3.809-1.352,9.263,9.263,0,0,0,2.519-2.4,10.993,10.993,0,0,0,1.72-3.563,7.629,7.629,0,0,0,.43-2.15,5.388,5.388,0,0,0-.737-3.133,4.742,4.742,0,0,0-.983-1.106,3.14,3.14,0,0,0-1.007-.6c.2-.088.412-.193.638-.32a7.315,7.315,0,0,0,2.212-1.9,7.173,7.173,0,0,0,1.229-2.765A5.9,5.9,0,0,0,1548.384,425.995Z" transform="translate(-1495.46 -414.67)" fill="#fff"/>
     </g>
-    <text id="VW_IDの取得方法" data-name="VW IDの取得方法" transform="translate(64.426 1799.93)" fill="#5a5757" font-size="14" font-family="SourceHanSansJP-Medium, Source Han Sans JP" font-weight="500" style="isolation: isolate"><tspan x="0" y="0">VW IDの取得方法</tspan></text>
+    <text id="極楽IDの取得方法" transform="translate(68.426 1810.93)" fill="#5a5757" font-size="14" font-family="SourceHanSansJP-Medium, Source Han Sans JP" font-weight="500" style="isolation: isolate"><tspan x="0" y="0">極楽IDの取得方法</tspan></text>
   </g>
 </svg>
