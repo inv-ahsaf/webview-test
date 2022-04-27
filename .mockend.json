@@ -1,1 +1,7 @@
-{   "ModelName": {     "fieldName": {       "<type>": {} | [],       "hasMany": "Model",       "belongsTo": "Model"     }   } }
+{   "ModelName": {     
+  "fieldName": {    
+    "hasMany": "Model",    
+    "belongsTo": "Model"    
+  } 
+}
+}
