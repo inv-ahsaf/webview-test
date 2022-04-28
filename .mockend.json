@@ -39,7 +39,7 @@
       }
     }
   },
-    "FindSecondaryProductList": {
+    "Findsecondary": {
 
       "securityTokenCd":{"string":["103"]},
       "productId":{"int":[3]},
