@@ -9,6 +9,13 @@
         "maxLength": 20
       }
     },
+    "number22":{
+       "string": [
+        "one",
+        "two",
+        "three"
+      ]
+    },
     "body": {
       "loremParagraphs": {
         "minLength": 10,
@@ -31,5 +38,23 @@
         "max": "2020-12-31T23:59:59Z"
       }
     }
-  }
+  },
+    "FindSecondaryProductList": {
+
+      "securityTokenCd":{"string":["103"]},
+      "productId":{"int":[3]},
+      "itemSymbol":{"string":["ITSML3"]},
+      "productName":{"string":["Product name3"]},
+      "productIconPath":{"string":["Product_Icon_Path3"]},
+      "productImgPath":{"string":["Product_Icon_Path3"]},
+      "titleText":{"string":["title text 3"]},
+      "plannedYield":{"int":[1]},
+      "currentStockAmount":{"int":[10045]},
+      "primaryInvestHandleUnit":{"int":[503]},
+      "projectName":{"string":["Project name 3"]},
+      "assetType":{"string":["asset type 3"]},
+      "companyName":{"string":["Tesla"]},
+      "whiteListCount":{"int":[1]}
+      
+    }
 }
